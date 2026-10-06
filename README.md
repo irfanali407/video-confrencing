@@ -1,4 +1,4 @@
-# Zoom Clone
+meetHub
 
 A full-stack video meeting application built with React, Express, MongoDB, Socket.IO, and WebRTC. Users can create or join rooms, communicate over audio/video, chat during calls, and revisit meetings from their account history.
 
